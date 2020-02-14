@@ -1,0 +1,4 @@
+[0214/052558.778:ERROR:process_reader_win.cc(123)] NtOpenThread: {Pøístup byl odepøen} Proces požadoval pøístup k objektu, ale nebyla mu udìlena odpovídající pøístupová práva. (0xc0000022)
+[0214/052558.780:ERROR:exception_snapshot_win.cc(98)] thread ID 18080 not found in process
+[0214/052558.814:ERROR:process_reader_win.cc(123)] NtOpenThread: {Pøístup byl odepøen} Proces požadoval pøístup k objektu, ale nebyla mu udìlena odpovídající pøístupová práva. (0xc0000022)
+[0214/052558.814:ERROR:exception_snapshot_win.cc(98)] thread ID 19076 not found in process
